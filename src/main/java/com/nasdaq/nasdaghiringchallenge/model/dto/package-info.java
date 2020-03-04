@@ -1,0 +1,1 @@
+package com.nasdaq.nasdaghiringchallenge.model.dto;
